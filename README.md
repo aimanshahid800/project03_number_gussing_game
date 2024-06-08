@@ -16,6 +16,7 @@ Make sure you have Node.js installed on your system to run this game. You can ge
 
 Clone the repository to your local machine using:
 
+```bash
 cd project03_number_gussing_game
 ```
 
